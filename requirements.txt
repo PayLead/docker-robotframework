@@ -1,0 +1,8 @@
+Faker==4.17.0
+requests==2.24.0
+robotframework==3.2.2
+robotframework-faker==5.0.0
+robotframework-jsonlibrary==0.3.1
+robotframework-pabot==1.10.0
+robotframework-requests==0.7.2
+selenium==3.141.0
