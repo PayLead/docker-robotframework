@@ -4,7 +4,7 @@ ENV DEBIAN_FRONTEND=noninteractive
 
 # Install OS dependencies
 RUN apt-get update && \
-    apt-get install -y chromium curl
+    apt-get install -y chromium curl jo
 
 COPY requirements.txt /
 
